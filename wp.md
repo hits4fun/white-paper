@@ -13,7 +13,7 @@ There is no token at this stage. The protocol is currently in public whitelist p
 
 Zero-day options are one of the fastest-growing instruments in traditional finance. We aim to bring this explosive format into DeFi — in a radically simplified and gamified way.
 
-<img width="374" height="563" alt="card-1" src="https://github.com/user-attachments/assets/592e7db5-ba9d-46b5-b3f0-82a9f2a5805d" />
+<img style="max-width:100%;" alt="card-1" src="https://github.com/user-attachments/assets/592e7db5-ba9d-46b5-b3f0-82a9f2a5805d" />
 
 With HITS4FUN:
 
@@ -34,7 +34,7 @@ At launch, HITS4FUN supports a single strategy:
 
 ### 🎯 **Range Breakout**
 
-<img alt="Graph1" src="https://github.com/user-attachments/assets/7960bf5e-1a49-4d35-b160-14881c32427d" />
+<img style="max-width:100%;" alt="Graph1" src="https://github.com/user-attachments/assets/7960bf5e-1a49-4d35-b160-14881c32427d" />
 
 
 - You buy a ticket before the U.S. trading session opens
@@ -53,7 +53,7 @@ Each daily strategy runs through three distinct stages:
 
 1. **Open**
 
-<img width="343" height="485" alt="card-strategy-new14" src="https://github.com/user-attachments/assets/7c8e16bf-7287-45e6-a141-9c6436756925" />
+<img style="max-width:100%;" alt="card-strategy-new14" src="https://github.com/user-attachments/assets/7c8e16bf-7287-45e6-a141-9c6436756925" />
 
    - Users may buy tickets
    - The range is not yet known
@@ -61,7 +61,7 @@ Each daily strategy runs through three distinct stages:
 
 2. **Active**
 
-   <img width="343" height="223" alt="card-strategy-new15" src="https://github.com/user-attachments/assets/fe278fe2-5044-485a-8062-ae9b2cf520b9" />
+   <img style="max-width:100%;" alt="card-strategy-new15" src="https://github.com/user-attachments/assets/fe278fe2-5044-485a-8062-ae9b2cf520b9" />
 
 
    - U.S. session begins
@@ -71,7 +71,7 @@ Each daily strategy runs through three distinct stages:
 
 3. **Expired**
 
-   <img width="343" height="565" alt="card-strategy-new16" src="https://github.com/user-attachments/assets/21588cdd-2f81-4706-b430-725bd2e8e716" />
+   <img style="max-width:100%;" alt="card-strategy-new16" src="https://github.com/user-attachments/assets/21588cdd-2f81-4706-b430-725bd2e8e716" />
 
 
    - Session ends
@@ -120,7 +120,7 @@ This model creates a **self-balancing loop** where:
 
 ## User Journey
 
-<img width="375" height="562" alt="card-2" src="https://github.com/user-attachments/assets/e7d507f2-d2d4-4f5b-8c54-d4c4c4ec8fb6" />
+<img style="max-width:100%;" alt="card-2" src="https://github.com/user-attachments/assets/e7d507f2-d2d4-4f5b-8c54-d4c4c4ec8fb6" />
 
 
 1. **Connect Wallet**
