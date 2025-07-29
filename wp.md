@@ -34,7 +34,7 @@ At launch, HITS4FUN supports a single strategy:
 
 ### 🎯 **Range Breakout**
 
-<img width="1405" height="1304" alt="Graph1" src="https://github.com/user-attachments/assets/7960bf5e-1a49-4d35-b160-14881c32427d" />
+<img alt="Graph1" src="https://github.com/user-attachments/assets/7960bf5e-1a49-4d35-b160-14881c32427d" />
 
 
 - You buy a ticket before the U.S. trading session opens
