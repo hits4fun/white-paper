@@ -30,9 +30,8 @@ Our goal is to make high-frequency volatility exposure as easy and fun as placin
 
 ## Core Strategy: Range Breakout
 
-At launch, HITS4FUN supports a single strategy:
+At launch, HITS4FUN supports a single strategy: **Range Breakout**
 
-### 🎯 **Range Breakout**
 
 <img style="max-width:100%;" alt="Graph1" src="https://github.com/user-attachments/assets/7960bf5e-1a49-4d35-b160-14881c32427d" />
 
